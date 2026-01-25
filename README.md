@@ -1,1 +1,1 @@
-# TDSE-01
+# Stellar luminosity - Linear and Polynomial Models for Regression
